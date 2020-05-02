@@ -1,0 +1,107 @@
+Navigation
+|
+index
+index
+|
+modules
+modules
+»
+Python
+»
+Documentation
+|
+Python 3.8.3rc1 documentation
+Welcome! This is the documentation for Python 3.8.3rc1.
+Parts of the documentation:
+since 2.0
+What's new in Python 3.8?
+all "What's new" documents
+start here
+Tutorial
+keep this under your pillow
+Library Reference
+describes syntax and language elements
+Language Reference
+how to use Python on different platforms
+Python Setup and Usage
+in-depth documents on specific topics
+Python HOWTOs
+installing from the Python Package Index & other sources
+Installing Python Modules
+publishing modules for installation by others
+Distributing Python Modules
+tutorial for C/C++ programmers
+Extending and Embedding
+reference for C/C++ programmers
+Python/C API
+frequently asked questions (with answers!)
+FAQs
+Indices and tables:
+quick access to all modules
+Global Module Index
+all functions, classes, terms
+General Index
+the most important terms explained
+Glossary
+search this documentation
+Search page
+lists all sections and subsections
+Complete Table of Contents
+Meta information:
+Reporting bugs
+Reporting bugs
+Contributing to Docs
+Contributing to Docs
+About the documentation
+About the documentation
+History and License of Python
+History and License of Python
+Copyright
+Copyright
+Download
+Download these documents
+Download these documents
+Docs by version
+All versions
+Python 3.9 (in development)
+Python 3.9 (in development)
+Python 3.8 (stable)
+Python 3.8 (stable)
+Python 3.7 (stable)
+Python 3.7 (stable)
+Python 3.6 (security-fixes)
+Python 3.6 (security-fixes)
+Python 3.5 (security-fixes)
+Python 3.5 (security-fixes)
+Python 2.7 (EOL)
+Python 2.7 (EOL)
+All versions
+All versions
+Other resources
+Python Developer’s Guide
+PEP Index
+PEP Index
+Beginner's Guide
+Beginner's Guide
+Book List
+Book List
+Audio/Visual Talks
+Audio/Visual Talks
+Python Developer’s Guide
+Python Developer’s Guide
+Navigation
+|
+index
+index
+|
+modules
+modules
+»
+Python
+»
+Documentation
+|
+Copyright
+Please donate.
+Found a bug
+Sphinx
